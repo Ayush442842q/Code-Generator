@@ -1,0 +1,9 @@
+{
+    "api_key": "API_KEY_HERE",
+    "default_language": "python",
+    "theme": "monokai",
+    "auto_run": true,
+    "max_fix_attempts": 3,
+    "timeout_seconds": 15,
+    "save_all": false
+}
